@@ -10,13 +10,10 @@
   </a>
 </p>
 
-<h2 align="center">🐍 Contribution game</h2>
-<p align="center"><sub>Watch the snake clear my live contribution graph · redrawn every day</sub></p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/axel-slid/axel-slid/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/axel-slid/axel-slid/output/github-contribution-grid-snake.svg" />
-  <img alt="Animated snake moving through Alex's GitHub contribution graph" src="https://raw.githubusercontent.com/axel-slid/axel-slid/output/github-contribution-grid-snake.svg" width="100%" />
+  <img alt="" src="https://raw.githubusercontent.com/axel-slid/axel-slid/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 ## Featured projects
@@ -87,8 +84,4 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,js,react,nodejs,electron,flask,swift,docker,git,latex&amp;perline=11" alt="Python, PyTorch, JavaScript, React, Node.js, Electron, Flask, Swift, Docker, Git, and LaTeX" />
-</p>
-
-<p align="center">
-  <sub>Good tools should make difficult work feel obvious.</sub>
 </p>
