@@ -1,9 +1,3 @@
-<div align="center">
-  <a href="https://alex-dils.com">
-    <img src="./assets/header.svg" width="100%" alt="Alex Dils — AI systems, biomedical vision, and agent-native tools" />
-  </a>
-</div>
-
 <p align="center">
   <a href="https://alex-dils.com">
     <img src="https://img.shields.io/badge/alex--dils.com-visit-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Alex's website" />
@@ -16,33 +10,8 @@
   </a>
 </p>
 
-I build intelligent software where **computer vision**, **biomedical imaging**, and
-**human-centered tools** overlap. My work ranges from medical-image segmentation
-and generative digital twins to local-first desktop environments for research and
-creative work.
-
-<table>
-  <tr>
-    <td>🔬 <strong>Building</strong></td>
-    <td>Imaging systems that turn complex scans into useful measurements</td>
-  </tr>
-  <tr>
-    <td>🧠 <strong>Exploring</strong></td>
-    <td>3D vision, diffusion models, multimodal AI, and agent-native interfaces</td>
-  </tr>
-  <tr>
-    <td>📍 <strong>Based in</strong></td>
-    <td>San Francisco Bay Area</td>
-  </tr>
-</table>
-
-## Activity
-
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=axel-slid&amp;theme=transparent" alt="Alex's GitHub statistics" />
-</p>
-
-<p align="center"><sub>LIVE CONTRIBUTION TRAIL · UPDATED DAILY</sub></p>
+<h2 align="center">🐍 Contribution game</h2>
+<p align="center"><sub>Watch the snake clear my live contribution graph · redrawn every day</sub></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/axel-slid/axel-slid/output/github-contribution-grid-snake-dark.svg" />
