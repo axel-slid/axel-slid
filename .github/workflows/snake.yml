@@ -25,7 +25,9 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?color_snake=%23fbbf24&color_dots=%230d1117,%23312e81,%235b21b6,%237c3aed,%23c084fc
 
       - name: Keep contribution squares visible
-        run: perl -pi -e 's/animation-name:c[0-9a-z]+/animation-name:none/g' dist/*.svg
+        run: |
+          perl -pi -e 's/animation-name:c[0-9a-z]+/animation-name:none/g' dist/*.svg
+          perl -pi -e 's/<rect class="u[^>]*\/>//g; s/viewBox="-16 -32 880 192"/viewBox="-16 -32 880 160"/; s/height="192"/height="160"/' dist/*.svg
 
       - name: Publish snake to output branch
         uses: crazy-max/ghaction-github-pages@v5.0.0

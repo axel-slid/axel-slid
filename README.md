@@ -24,27 +24,33 @@
       <h3>🌿 <a href="https://github.com/axel-slid/openleaf">OpenLeaf</a></h3>
       <p>An agent-native desktop studio for LaTeX, live PDF, editable PowerPoint, Python, SSH, and coding agents.</p>
       <p>
-        <img src="https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
-        <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
-        <img src="https://img.shields.io/badge/PowerPoint-d35230?style=flat-square&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint" />
+        <a href="https://github.com/axel-slid/openleaf">
+          <img src="https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+          <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="LaTeX" />
+          <img src="https://img.shields.io/badge/PowerPoint-d35230?style=flat-square&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint" />
+        </a>
       </p>
     </td>
     <td width="33%" valign="top">
       <h3>🏙️ <a href="https://github.com/axel-slid/bscode">BsCode</a></h3>
       <p>A cinematic multi-agent desktop for coordinating Codex, Claude, shell, local, and SSH workspaces.</p>
       <p>
-        <img src="https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
-        <img src="https://img.shields.io/badge/Codex-111827?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
-        <img src="https://img.shields.io/badge/Multi_Agent-7c3aed?style=flat-square" alt="Multi-agent" />
+        <a href="https://www.alex-dils.com/bscode/">
+          <img src="https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+          <img src="https://img.shields.io/badge/Codex-111827?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
+          <img src="https://img.shields.io/badge/Multi_Agent-7c3aed?style=flat-square" alt="Multi-agent" />
+        </a>
       </p>
     </td>
     <td width="33%" valign="top">
       <h3>🎛️ <a href="https://github.com/axel-slid/set-player">Set Player</a></h3>
       <p>A native macOS and iPhone app for playing, remembering, visualizing, and matching recorded DJ sets.</p>
       <p>
-        <img src="https://img.shields.io/badge/SwiftUI-f05138?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
-        <img src="https://img.shields.io/badge/Rekordbox-ff2e78?style=flat-square" alt="Rekordbox" />
-        <img src="https://img.shields.io/badge/macOS-111827?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
+        <a href="https://github.com/axel-slid/set-player">
+          <img src="https://img.shields.io/badge/SwiftUI-f05138?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
+          <img src="https://img.shields.io/badge/Rekordbox-ff2e78?style=flat-square" alt="Rekordbox" />
+          <img src="https://img.shields.io/badge/macOS-111827?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
+        </a>
       </p>
     </td>
   </tr>
