@@ -21,7 +21,7 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🌿 <a href="https://github.com/axel-slid/openleaf">OpenLeaf</a></h3>
+      <h3><a href="https://github.com/axel-slid/openleaf">OpenLeaf</a></h3>
       <p>An agent-native desktop studio for LaTeX, live PDF, editable PowerPoint, Python, SSH, and coding agents.</p>
       <p>
         <a href="https://github.com/axel-slid/openleaf">
@@ -32,7 +32,7 @@
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3>🏙️ <a href="https://github.com/axel-slid/bscode">BsCode</a></h3>
+      <h3><a href="https://github.com/axel-slid/bscode">BsCode</a></h3>
       <p>A cinematic multi-agent desktop for coordinating Codex, Claude, shell, local, and SSH workspaces.</p>
       <p>
         <a href="https://www.alex-dils.com/bscode/">
@@ -43,7 +43,7 @@
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3>🎛️ <a href="https://github.com/axel-slid/set-player">Set Player</a></h3>
+      <h3><a href="https://github.com/axel-slid/set-player">Set Player</a></h3>
       <p>A native macOS and iPhone app for playing, remembering, visualizing, and matching recorded DJ sets.</p>
       <p>
         <a href="https://github.com/axel-slid/set-player">
@@ -55,9 +55,3 @@
     </td>
   </tr>
 </table>
-
-## Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,js,react,nodejs,electron,flask,swift,docker,git,latex&amp;perline=11" alt="Python, PyTorch, JavaScript, React, Node.js, Electron, Flask, Swift, Docker, Git, and LaTeX" />
-</p>
